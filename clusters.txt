@@ -1,0 +1,1 @@
+{'the': 1, 'cat': 2, 'mouse': 2, 'dog': 2, 'chased': 5, 'ate': 5, 'hit': 5, 'is': 8, 'in': 9, 'color': 10, 'banana': 11, 'yellow': 12, 'strawberry': 11, 'red': 12, 'blueberry': 11, 'blue': 12}

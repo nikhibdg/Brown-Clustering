@@ -1,0 +1,1 @@
+{'the': '', 'cat': '00', 'mouse': '01', 'dog': '1', 'chased': '00', 'ate': '1', 'hit': '01', 'is': '', 'in': '', 'color': '', 'banana': '00', 'yellow': '00', 'strawberry': '01', 'red': '01', 'blueberry': '1', 'blue': '1'}

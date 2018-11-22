@@ -1,0 +1,12 @@
+The/as cat/as chased/as the/as mouse/as
+The/as dog/as chased/as the/as cat/as
+the/as mouse/as chased/as the/as dog/as
+The/as cat/as ate/as the/as mouse/as
+The/as dog/as ate/as the/as cat/as
+the/as mouse/as ate/as the/as dog/as
+The/as cat/as hit/as the/as mouse/as
+The/as dog/as hit/as the/as cat/as
+the/as mouse/as hit/as the/as dog/as
+Banana/as is/as yellow/as in/as color/as
+Strawberry/as is/as red/as in/as color/as
+Blueberry/as is/as blue/as in/as color/as
